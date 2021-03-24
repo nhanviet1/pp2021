@@ -11,4 +11,3 @@ Student Info
 
 * Student Name: Nguyen Viet Nhan
 * Student ID: Bi10-132
-
